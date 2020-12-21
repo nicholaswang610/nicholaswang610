@@ -5,7 +5,6 @@
 -->
 
 I'm Nicholas Wang, a sophomore studying computer science at USC!  
-
 I'm also a full stack web developer with a strong interest in UI/UX design :wink:.
 
 **:bulb: I'm currently working on:**
